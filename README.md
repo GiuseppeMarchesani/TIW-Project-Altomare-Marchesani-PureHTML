@@ -1,7 +1,7 @@
 # TIW-Project-Altomare-Marchesani-PureHTML
 ## Catalogazione di immagini
 ### Autori: 
-- [__Andrea Altomare](https://github.com/a-alto)
+- [__Andrea Altomare__](https://github.com/a-alto)
 - [__Giuseppe Marchesani__](https://github.com/GiuseppeMarchesani)
 
 #### Un’applicazione permette all’utente (ad esempio il curatore di un catalogo online di immagini) di gestire una tassonomia di classificazione utile per etichettare immagini allo scopo di consentire la ricerca in base alla categoria. Dopo il login, l’utente accede a una pagina HOME in cui compare un albero gerarchico di categorie. Le categorie non dipendono dall’utente e sono in comune tra tutti gli utenti. 
